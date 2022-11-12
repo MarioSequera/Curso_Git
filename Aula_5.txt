@@ -1,0 +1,85 @@
+    1  history
+    2  clear
+    3  git log
+    4  git log --pretty=oneline
+    5  git log --stat
+    6  git log -p
+    7  clear
+    8  git log
+    9  git log
+   10  git status
+   11  ls
+   12  cd Desktop/
+   13  ls
+   14  cd Curso_Git/
+   15  git log
+   16  git log --pretty=online
+   17  git log pretty=oneline
+   18  git log --pretty=oneline
+   19  git log --stat
+   20  git log -p
+   21  git cd
+   22  clear
+   23  ls
+   24  cd Desktop/
+   25  cat
+   26  cd Curso_Git/
+   27  git log
+   28  git log --pretty=oneline
+   29  git log stat
+   30  git log --stat
+   31  git log -p
+   32  clear
+   33  git log
+   34  cp Desktop/
+   35  list
+   36  ls
+   37  cd Desktop/
+   38  cd Curso_Git
+   39  git log
+   40  cd Desktop/
+   41  cd Curso_Git/
+   42  git log
+   43  cd Desktop/
+   44  cd Curso_Git/
+   45  git branch
+   46  git checkout -b feature
+   47  git branch
+   48  touch Nova_feature
+   49  git status
+   50  git add Nova_feature
+   51  git commit -m "Adicionando nova feature"
+   52  git log
+   53  git checkout master
+   54  git status
+   55  git log
+   56  touch Continuando_master
+   57  git add Continuando_master
+   58  git commmit -m "Adicionado continuacao na master"
+   59  git commit -m "Adiconado continuacao na master"
+   60  git log
+   61  git checkout feature
+   62  git log
+   63  cd Desktop/
+   64  cd Curso_Git/
+   65  git checkout -b feature2 master
+   66  git log
+   67  git checkout -d feature2
+   68  git checkout feature2
+   69  git log
+   70  git branch -d feature2
+   71  git checkout master
+   72  git branch -d feature2
+   73  git log
+   74  git checkout feature2
+   75  clear
+   76  git checkout feature
+   77  git log --pretty=oneline --graph
+   78  git merge master
+   79  git log
+   80  git log --pretty=oneline --graph
+   81  git reset --hard HEAD~
+   82  git log --pretty=oneline --graph
+   83  git rebase master
+   84  git log --pretty=oneline --graph
+   85  history > Aula_5.txt
